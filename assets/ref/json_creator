@@ -1,0 +1,144 @@
+{
+  "posts": [
+    {
+      "post_link": "https://cdn.pixabay.com/photo/2016/01/19/17/56/concert-1149979_960_720.jpg",
+      "post_type": "photo",
+      "post_des": "This photo is really cool",
+      "post_like": "1000 Likes",
+      "comments_no":"100",
+      "user": {
+        "user_name": "ching.wang",
+        "user_pic": "https://cdn.pixabay.com/photo/2016/11/14/03/43/asia-1822520_960_720.jpg"
+      },
+      "comments": [
+        {
+          "comment_name": "James",
+          "comment_pic": "https://cdn.pixabay.com/photo/2014/11/28/15/38/sarah-vaughan-548963_960_720.jpg",
+          "comment": "This is really cool 😉😉😉"
+        },
+        {
+          "comment_name": "kriss.kill",
+          "comment_pic": "https://cdn.pixabay.com/photo/2015/10/12/15/05/girls-984154_960_720.jpg",
+          "comment": "This is really beatiful "
+        },
+        {
+          "comment_name": "dj.jakal",
+          "comment_pic": "https://cdn.pixabay.com/photo/2015/10/12/15/05/girls-984154_960_720.jpg",
+          "comment": "This is really cool"
+        },
+        {
+          "comment_name": "ching.wang",
+          "comment_pic": "https://cdn.pixabay.com/photo/2016/11/14/03/43/asia-1822520_960_720.jpg",
+          "comment": "This is really cool"
+        }
+      ]
+    },
+
+    {
+      "post_link": "https://cdn.pixabay.com/photo/2016/01/19/17/56/concert-1149979_960_720.jpg",
+      "post_type": "photo",
+      "post_des": "This is app is really cool",
+      "post_like": "1000 Likes",
+      "comments_no":"100",
+      "user": [
+        {
+          "user_name": "dj.jakal",
+          "user_pic": "https://cdn.pixabay.com/photo/2015/10/12/15/05/girls-984154_960_720.jpg"
+        }
+      ],
+      "comments": [
+        {
+          "comment_name": "username",
+          "comment_pic": "https://cdn.pixabay.com/photo/2014/11/28/15/38/sarah-vaughan-548963_960_720.jpg",
+          "comment": "This is really cool 😉😉😉"
+        },
+        {
+          "comment_name": "kriss.kill",
+          "comment_pic": "https://cdn.pixabay.com/photo/2015/10/12/15/05/girls-984154_960_720.jpg",
+          "comment": "This is really beatiful "
+        },
+        {
+          "comment_name": "dj.jakal",
+          "comment_pic": "https://cdn.pixabay.com/photo/2015/10/12/15/05/girls-984154_960_720.jpg",
+          "comment": "This is really cool"
+        },
+        {
+          "comment_name": "ching.wang",
+          "comment_pic": "https://cdn.pixabay.com/photo/2016/11/14/03/43/asia-1822520_960_720.jpg",
+          "comment": "This is really cool"
+        }
+      ]
+    },
+    {
+      "post_link": "https://cdn.pixabay.com/photo/2017/11/23/03/17/christmas-2971961_960_720.jpg",
+      "post_type": "photo",
+      "post_des": "This is app is really cool.Colol photo design  i just love it.",
+      "post_like": "2.5K Likes",
+      "comments_no":"100",
+      "user": [
+        {
+          "user_name": "wanjiru.sarah",
+          "user_pic": "https://cdn.pixabay.com/photo/2014/11/28/15/38/sarah-vaughan-548963_960_720.jpg"
+        }
+      ],
+      "comments": [
+        {
+          "comment_name": "no.name",
+          "comment_pic": "https://cdn.pixabay.com/photo/2014/11/28/15/38/sarah-vaughan-548963_960_720.jpg",
+          "comment": "This is really cool 😉😉😉"
+        },
+        {
+          "comment_name": "kriss.kill",
+          "comment_pic": "https://cdn.pixabay.com/photo/2015/10/12/15/05/girls-984154_960_720.jpg",
+          "comment": "This is really beatiful "
+        },
+        {
+          "comment_name": "dj.jakal",
+          "comment_pic": "https://cdn.pixabay.com/photo/2015/10/12/15/05/girls-984154_960_720.jpg",
+          "comment": "This is really cool"
+        },
+        {
+          "comment_name": "ching.wang",
+          "comment_pic": "https://cdn.pixabay.com/photo/2016/11/14/03/43/asia-1822520_960_720.jpg",
+          "comment": "This is really cool"
+        }
+      ]
+    },
+
+    {
+      "post_link": "https://cdn.pixabay.com/photo/2017/08/01/09/07/mobile-2563782_960_720.jpg",
+      "post_type": "photo",
+      "post_des": "Welcome to Instagram.Download our very cool app",
+      "post_like": "1000 Likes",
+      "comments_no":"1.1M",
+      "user": [
+        {
+          "user_name": "Instagram",
+          "user_pic": "https://cdn.pixabay.com/photo/2016/08/09/17/52/instagram-1581266_960_720.jpg"
+        }
+      ],
+      "comments": [
+        {
+          "comment_name": "jakal.name",
+          "comment_pic": "https://cdn.pixabay.com/photo/2014/11/28/15/38/sarah-vaughan-548963_960_720.jpg",
+          "comment": "This is really cool 😉😉😉.I use it m"
+        },
+        {
+          "comment_name": "kriss.kill",
+          "comment_pic": "https://cdn.pixabay.com/photo/2015/10/12/15/05/girls-984154_960_720.jpg",
+          "comment": "This is really beatiful "
+        },
+        {
+          "comment_name": "dj.jakal",
+          "comment_pic": "https://cdn.pixabay.com/photo/2015/10/12/15/05/girls-984154_960_720.jpg",
+          "comment": "This is really cool"
+        },
+        {
+          "comment_name": "ching.wang",
+          "comment_pic": "https://cdn.pixabay.com/photo/2016/11/14/03/43/asia-1822520_960_720.jpg",
+          "comment": "This is really cool"
+        }
+      ]
+    }
+  ]
+}
